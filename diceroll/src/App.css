@@ -1,0 +1,22 @@
+body{
+  background-color: grey;
+}
+
+.container{
+  text-align: center;
+  padding: 2rem 2rem;
+  margin: 1rem;}
+
+
+.space{
+  width: 2px;
+}
+
+.square {
+  height: 400px;
+  width: 400px;
+  background-color: white;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 1rem 1rem;
+}
